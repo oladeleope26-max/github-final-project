@@ -1,0 +1,10 @@
+
+# Simple Interest Calculator
+
+This is a simple interest calculator that calculates simple interest based on principal amount, rate and time period.
+
+Formula: SI = (P * R * T) / 100
+
+How to use:
+1. Run ./simple-interest.sh
+2. Enter principal, rate, time
